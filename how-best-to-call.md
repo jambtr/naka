@@ -14,9 +14,10 @@ Let $\tilde{\g} := \{(x,b) \in \g\times G/B : x \in b\}$. There are resolutions
 % \end{tikzcd}
 $$-->
 such that 
-    - $\pi^{-1}([\b]) = \b$ such that $\pi : \tilde g\to G/B$ is a vector bundle (in fact, it is a $G$-equivariant bundle isomorphic to $G\times^B\b$) %  \{x: x\in\b\} = % which is a vector space, so
-    - $\mu^{-1}(x) \cong W$ such that $\mu: \tilde\g^{sr}\to\g^{sr}$ is a principal $W$-bundle % for $x\in \g^{sr}$ 
-\end{itemize}
+
+- $\pi^{-1}([\b]) = \b$ such that $\pi : \tilde g\to G/B$ is a vector bundle (in fact, it is a $G$-equivariant bundle isomorphic to $G\times^B\b$) %  \{x: x\in\b\} = % which is a vector space, so
+- $\mu^{-1}(x) \cong W$ such that $\mu: \tilde\g^{sr}\to\g^{sr}$ is a principal $W$-bundle % for $x\in \g^{sr}$ 
+
 <!-- - % on $\cN$... (those $x\in\g$ having nilpotent $ad(x)$) -->
 <!-- (g,x) \mapsto (gxg^{-1},gB/B) -->
 The Steinberg variety 
